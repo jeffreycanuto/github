@@ -7,3 +7,14 @@ add -> Track your files and changes in Git
 commit -> Save your files in Git
 push -> Upload Git commits to a remote repo, like Github
 pull -> Download changes from remote repo to your local machine, the opposite of push
+
+## Github workflow
+write code > commit changes > make a Pull Request
+
+## Local Git workflow
+write code > Stage changes(git add) > Commit changes(git commit) >Push changes(git push)
+> Make a Pull request
+
+
+Git Branching *Master Branch
+
