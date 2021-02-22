@@ -15,6 +15,11 @@ write code > commit changes > make a Pull Request
 write code > Stage changes(git add) > Commit changes(git commit) >Push changes(git push)
 > Make a Pull request
 
+## Update
+git add .
+git commit -m "msg" -m "msg desc"
+git push https://github.com/jeffreycanuto/github.git
+
 
 Git Branching *Master Branch
 
